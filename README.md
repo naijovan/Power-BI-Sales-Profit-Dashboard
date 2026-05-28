@@ -66,6 +66,6 @@ The dataset contains sales and profit data across different countries, products,
 ## Files Included
 
 - `Sales_Profit_Performance_Dashboard.pbix` - Power BI dashboard file
-- `data/Financial Sample.xlsx` - Dataset used
-- `screenshots/dashboard_overview.jpg` - Dashboard preview image
+- `Data/Financial Sample.xlsx` - Dataset used
+- `Screenshot/dashboard_overview.jpg` - Dashboard preview image
 - `README.md` - Project documentation
