@@ -4,7 +4,7 @@
 
 This Power BI project analyses sales and profit performance across countries, products, customer segments, and time periods.
 
-The goal of this project is to build an interactive dashboard that helps users understand overall business performance, identify top-performing products and segments, and analyse sales trends over time.
+The goal of this project is to build an interactive dashboard that helps users understand overall business performance, identify top-performing products and segments and analyse sales trends over time.
 
 ## Dashboard Preview
 
@@ -21,7 +21,7 @@ The goal of this project is to build an interactive dashboard that helps users u
 
 This project uses Microsoft's Financial Sample dataset.
 
-The dataset contains sales and profit data across different countries, products, customer segments, discount bands, and time periods.
+The dataset contains sales and profit data across different countries, products, customer segments, discount bands and time periods.
 
 ## Dashboard Features
 
