@@ -8,7 +8,7 @@ The goal of this project is to build an interactive dashboard that helps users u
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.jpg)
+![Dashboard Overview](Screenshots/dashboard_overview.jpg)
 
 ## Tools Used
 
